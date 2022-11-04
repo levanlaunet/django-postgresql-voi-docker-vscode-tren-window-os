@@ -1,2 +1,4 @@
-# django-postgresql-voi-docker-vscode-tren-window-os
-Django, PostgreSql với Docker, VScode trên Window OS
+# Django, PostgreSql với Docker, VScode trên Window OS
+
+### Youtube video : https://youtu.be/dhwbi0amszU
+### Blog : https://levanlau.net
